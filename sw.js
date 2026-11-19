@@ -1,6 +1,6 @@
 /* Piano Chord & Jazz Trainer — offline cache.
    Bump VERSION on every release (scripts/bump-version.sh does it for you). */
-const VERSION = '0.3.0';
+const VERSION = '0.4.0';
 const CACHE = 'piano-trainer-' + VERSION;
 const ASSETS = [
   './',
